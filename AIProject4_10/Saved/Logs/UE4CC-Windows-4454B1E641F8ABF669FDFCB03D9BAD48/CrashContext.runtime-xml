@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>14632</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>AIProject4_10</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.10.4-2872498+++depot+UE4-Releases+4.10</EngineVersion>
+<CommandLine> </CommandLine>
+<LanguageLCID>1033</LanguageLCID>
+<DefaultLocale>en_US</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files (x86)/Epic Games/4.10/</RootDir>
+<MachineId>49A7F7E34660F286AD8E2C921BB99ACA</MachineId>
+<EpicAccountId>35554f692dfd40ceae915f236b531199</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Assertion failed: OverrideFunc [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.10\Engine\Source\Editor\Kismet\Private\SMyBlueprint.cpp] [Line: 2069] 
+
+</ErrorMessage>
+<MiscNumberOfCores>4</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>8</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA GeForce GTX 750 Ti</MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 10</MiscOSVersionMajor>
+<MiscOSVersionMinor></MiscOSVersionMinor>
+<CrashDumpMode>0</CrashDumpMode>
+<MemoryStatsTotalPhysical>8444297216</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>140737488224256</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>8</MemoryStatsTotalPhysicalGB>
+<MemoryStatsAvailablePhysical>1671192576</MemoryStatsAvailablePhysical>
+<MemoryStatsAvailableVirtual>140723103420416</MemoryStatsAvailableVirtual>
+<MemoryStatsUsedPhysical>870981632</MemoryStatsUsedPhysical>
+<MemoryStatsPeakUsedPhysical>2051862528</MemoryStatsPeakUsedPhysical>
+<MemoryStatsUsedVirtual>13537808384</MemoryStatsUsedVirtual>
+<MemoryStatsPeakUsedVirtual>13581791232</MemoryStatsPeakUsedVirtual>
+<MemoryStatsbIsOOM>0</MemoryStatsbIsOOM>
+<MemoryStatsOOMAllocationSize>0</MemoryStatsOOMAllocationSize>
+<MemoryStatsOOMAllocationAlignment>0</MemoryStatsOOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
